@@ -1,0 +1,75 @@
+/* Slider */
+.slider .indicators .indicator-item.active {
+    background-color: #F7BE15;
+}
+
+/* Carousel */
+.carousel .carousel-item>
+        img {
+            height: 360px;
+}
+
+/* Date Picker */
+.datepicker-date-display {
+    background-color: #018189;
+}
+
+/* Time Picker */
+.timepicker-digital-display {
+    background-color: #F7BE15;
+}
+
+.timepicker-text-container {
+    color: black;
+}
+
+.timepicker-close{
+    color: black;
+}
+
+/* Text Styles */
+.white2-text {
+    color: black !important;
+}
+
+.text-primary{
+    color: black;
+}
+
+/* Buttons */
+.btn, .btn-large, .btn-small {
+    background-color: #F7BE15;
+}
+
+.btn-floating i {
+    background-color: #F7BE15;
+    color: black;
+}
+
+/* Radio Buttons */
+[type="radio"]:checked+span:after, [type="radio"].with-gap:checked+span:after {
+    background-color: #F7BE15;
+}
+
+[type="radio"]:checked+span:after, [type="radio"].with-gap:checked+span:before, [type="radio"].with-gap:checked+span:after {
+    border: 2px solid black;
+}
+
+/* Dropdown Content */
+.dropdown-content li>a, .dropdown-content li>span {
+    color: black;
+}
+
+/* Side Nav */
+.sidenav {
+    background-color: #F7BE15;
+}
+
+.sidenav li>a {
+    color: darkcyan;
+}
+
+.sidenav li>a>i.material-icons {
+    color: darkcyan;
+}
+
